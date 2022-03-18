@@ -96,6 +96,30 @@ https://www.linkedin.com/pulse/big-data-architecture-patterns-nitin-guru/
 
 https://www.innoarchitech.com/blog/scalable-software-big-data-analytics-architecture-architectural-design-patterns
 
+#Extra:
+
+https://github.com/donnemartin/system-design-primer#denormalization
+
+https://github.com/donnemartin/system-design-primer#relational-database-management-system-rdbms
+
+https://github.com/donnemartin/system-design-primer#master-slave-replication
+
+https://github.com/donnemartin/system-design-primer#sharding
+
+
+https://github.com/donnemartin/system-design-primer#graph-database
+
+
+https://github.com/donnemartin/system-design-primer#sql-or-nosql
+
+https://github.com/donnemartin/system-design-primer#sql-tuning
+
+https://leetcode.com/discuss/career/229177/My-System-Design-Template
+
+https://eng.uber.com/
+
+
+
 
 
 
